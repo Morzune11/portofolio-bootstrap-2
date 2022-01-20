@@ -1,0 +1,24 @@
+section {
+    min-height: 420px;
+}
+
+.jumbotron {
+    background-image: url(img/amy-hirschi-szrJ3wjzOMg-unsplash.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* .portofolio .img-thumbnail {
+    margin-top: 10px;
+} */
+
+.portofolio {
+    padding-top: 20px;
+    background-color: rgba(112, 109, 109, 0.65);
+}
+
+footer {
+    padding-top: 10px;
+    height: 60px;
+    width: 100%;
+}
